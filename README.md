@@ -3,6 +3,7 @@
 ## Tecnologias
 
  - Node JS
+ - TypeScript
  - Express
  - TypeORM
  - SQLite 
