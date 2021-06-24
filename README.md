@@ -1,4 +1,11 @@
-## NLW Valoriza
+## API NLW Valoriza
+
+## Tecnologias
+
+ - Node JS
+ - Express
+ - TypeORM
+ - SQLite 
 
 ### Regras
 
@@ -10,11 +17,11 @@
 
 - Cadastro de Tag
 
-    [ ] Não é permitido cadastrar mais de uma tag com o mesmo nome;
+    [ x ] Não é permitido cadastrar tags sem nome;
 
-    [ ] Não é permitido cadastrar tags sem nome;
+    [ x ] Não é permitido cadastrar mais de uma tag com o mesmo nome;
 
-    [ ] Não é permitido o cadastro por usuários que não sejam administradores;
+    [ x ] Não é permitido o cadastro por usuários que não sejam administradores;
 
 - Cadastro de elogios
 
