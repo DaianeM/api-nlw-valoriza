@@ -6,6 +6,7 @@
  - TypeScript
  - Express
  - TypeORM
+ - JWT
  - SQLite 
 
 ### Regras
